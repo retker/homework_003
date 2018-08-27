@@ -17,4 +17,3 @@ echo PHP_EOL;
 
 echo 'Задание №4:' . PHP_EOL;
 task4();
-echo PHP_EOL;
