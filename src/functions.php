@@ -44,6 +44,7 @@ function task1()
 
 function task2()
 {
+    $flag = null;
     $list = array(
         array('Pentium G', 'Cori_i3', 'Cori_i5', 'Cori_i7', 'Core_i9'),
         array('1150', '1151', '1151_v2', '1156', '2011'),
